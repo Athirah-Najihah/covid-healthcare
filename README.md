@@ -1,4 +1,5 @@
-# c_h_c
+# covid-healthcare
+Software Design Workshop Group Project
 
 A new Flutter project.
 
